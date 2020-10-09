@@ -1,2 +1,1 @@
-
-<img src="https://media3.giphy.com/media/liBsVeLILcyaY/giphy.gif" alt="rick and morty" style="zoom:200%;" />
+![rick_sanchez](./rick_computer_image.png)
