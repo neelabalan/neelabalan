@@ -1,4 +1,4 @@
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/neelabalan)   [![hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://neelabalan.dev)
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/neelabalan)   
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neelabalan&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=0d1117)
 
